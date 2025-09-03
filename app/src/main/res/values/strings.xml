@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Irish - Assignment 1</string>
+    <string name="go_to_homepage_btn">Go To Homepage</string>
+    <string name="registration_activity_title">Registration Form</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">Email</string>
+    <string name="confirm_email_hint">Confirm Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_btn">Register</string>
+    <string name="thank_you_message">Thanks for registering, %1$s!</string>
+    <string name="home_page_image_description">Home Page Illustration Image</string>
+</resources>
